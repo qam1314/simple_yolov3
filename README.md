@@ -1,1 +1,2 @@
 # simple_yolov3
+本仓库基于U版的yolov3编写一份简单的yolov3代码
